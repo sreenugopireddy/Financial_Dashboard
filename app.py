@@ -77,4 +77,4 @@ else:
 # Footer
 # -------------------------
 st.markdown("---")
-st.markdown("Built with ❤️ by [Your Name](https://github.com/yourgithub) for portfolio showcase.")
+st.markdown("Built with ❤️ by Sreenu_Gopireddy")
